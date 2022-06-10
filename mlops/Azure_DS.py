@@ -5,7 +5,7 @@ azure_store = Datastore.register_azure_blob_container(
     datastore_name = "azureml_sdk_blob",
     account_name= "azuremlstname",
     container_name = "azuremlstcontainerblob",
-    account_key = "dpKUrYTXCxjYOydYOtyvrdCH8XZ8VYug4vBRtAvGao/W4h62j7igdTSSA1KtcDJFHWIo8dgBC155+AStkjdY9w=="
+    account_key = "dpKUrYTXCxjYOydYOtyvrdCH8XZ8VYug4vBRtAvGao/W4h62j7igdTSSA1KtcDJFHWIo8dgBC155+AStk********"
 
 
 
